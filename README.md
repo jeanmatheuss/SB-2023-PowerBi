@@ -2,7 +2,7 @@
 
 # **Projeto 2**: Relatório de Vendas Elegante com Power BI
 
-[Link do relatório]()
+[Link do relatório](https://github.com/jeanmatheuss/SB-2023-PowerBi/blob/main/desafio_powerbi.pbix)
 ---
 
 ## Contexto
