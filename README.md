@@ -9,7 +9,10 @@
 Para este projeto utilizamos um Dataset fornecido pela Microsoft na qual possui as informações de vendas de diversos segmentos tais como Government, Midmarket, Small Business, Channel Partners, Enterprise. Com diversos produtos como Carretera, Montana, Paseo, Velo, VTT, Amarilla.
 
 ### Primeira Página
-Na primeira página do dashboard interativo, colocamos as informações sobre vendas, COGS (Custo dos produtos vendidos), descontos, lucro, unidades vendidas. Fizemos um gráfico de vendas ao longo do tempo. Vendas por Segmento, Vendas por Produto e Vendas por País.
+Na primeira página do dashboard interativo, colocamos as informações gerais sobre vendas, COGS (Custo dos produtos vendidos), descontos, lucro, unidades vendidas. Fizemos um gráfico de vendas ao longo do tempo. Vendas por Segmento, Vendas por Produto e Vendas por País.
 
-### Segunda página
+### Segunda Página
 Aqui possuí os dados de Lucro separado pelos anos de 2013 e 2014. 
+
+### Terceira Página
+Aqui possuí os dados de vendas por tempo, separado por trimestres
